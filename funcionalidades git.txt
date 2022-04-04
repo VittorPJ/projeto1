@@ -1,0 +1,8 @@
+git push = enviar ao github 
+git pull = puxart do github
+git reflog = Mostra as att no código
+git init = Inicializa 
+git status = Mostra o status do código, se houve ou não mudanças	
+git add " " = Entre aspas duplas o objeto que deseja incluir
+git add . = Inclui todas as modificações de uma vez só, pra não precisar inserir tudo manualmente
+
