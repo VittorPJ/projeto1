@@ -12,3 +12,4 @@ git branch = mostra as branchs disponíveis, a que estiver em verde é a selecio
 git branch nome_da_branch = Cria uma nova branch 
 git merge nome_da_branch_que_vai_enviar_dados = Serve para unir uma branch a outra. É necessário colocar o nome da branch que deseja transferir os dados, certificar
 que está na branch correta e fazer um git pull antes, para puxar todas as att realizadas na branch anteriormente
+git checkout -b nome_da_branch = Cria uma nova branch idêntica a branch atual, o nome dado será o nome da nova branch
