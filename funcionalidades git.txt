@@ -6,5 +6,6 @@ git status = Mostra o status do código, se houve ou não mudanças
 git add " " = Entre aspas duplas o objeto que deseja incluir
 git add . = Inclui todas as modificações de uma vez só, pra não precisar inserir tudo manualmente
 git reset --hard 222222 = Deleta as modificações feitas, o número 2222222 representa o código em amarelo no inicio 
-
-
+git checkout nome_da_branch = Altera a seleção da branch 
+git branch = mostra as branchs disponíveis, a que estiver em verde é a selecionada do momento 
+git branch nome_da_branch = Cria uma nova branch 
